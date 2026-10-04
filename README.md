@@ -12,12 +12,12 @@ Analysera VM-matcher och deras resultat från slutspelet 2026. Projektet simuler
 6. Visualisera resultatet med matplotlib
 
 ## Resultat
-Programmet skapar 8 matcher, sparar dem i `vm_matcher.json`, och analyserar dem. Statistiken visar:
 - Antal matcher: 8
-- Totala mål: 27
-- Medel mål per match: 3.38
+- Totala mål: 28
+- Medel mål per match: 3.5
 - Max mål: 10
-- Min mål: 2
+- Min mål: 1
+- Oavgjorda: 0
 
 ## Analys
 Projektet visar hur OOP (klasser och arv) kan användas för att organisera data. Genom att använda en barnklass (SlutspelsMatch) kan vi lägga till specifik funktionalitet utan att skriva om koden. Detta speglar hur svenska AI-bolag som Einride och Kry hanterar tusentals datapunkter.
