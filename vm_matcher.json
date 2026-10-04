@@ -1,0 +1,66 @@
+[
+  {
+    "lag1": "Frankrike",
+    "lag2": "Marocko",
+    "lag1_mal": 2,
+    "lag2_mal": 0,
+    "omgång": "Kvartsfinal",
+    "förlängning": false
+  },
+  {
+    "lag1": "Spanien",
+    "lag2": "Belgien",
+    "lag1_mal": 2,
+    "lag2_mal": 1,
+    "omgång": "Kvartsfinal",
+    "förlängning": false
+  },
+  {
+    "lag1": "England",
+    "lag2": "Norge",
+    "lag1_mal": 2,
+    "lag2_mal": 1,
+    "omgång": "Kvartsfinal",
+    "förlängning": true
+  },
+  {
+    "lag1": "Argentina",
+    "lag2": "Schweiz",
+    "lag1_mal": 3,
+    "lag2_mal": 1,
+    "omgång": "Kvartsfinal",
+    "förlängning": true
+  },
+  {
+    "lag1": "Spanien",
+    "lag2": "Frankrike",
+    "lag1_mal": 2,
+    "lag2_mal": 0,
+    "omgång": "Semifinal",
+    "förlängning": false
+  },
+  {
+    "lag1": "Argentina",
+    "lag2": "England",
+    "lag1_mal": 2,
+    "lag2_mal": 1,
+    "omgång": "Semifinal",
+    "förlängning": false
+  },
+  {
+    "lag1": "England",
+    "lag2": "Frankrike",
+    "lag1_mal": 6,
+    "lag2_mal": 4,
+    "omgång": "Bronsmatch",
+    "förlängning": false
+  },
+  {
+    "lag1": "Spanien",
+    "lag2": "Argentina",
+    "lag1_mal": 1,
+    "lag2_mal": 0,
+    "omgång": "Final",
+    "förlängning": true
+  }
+]
